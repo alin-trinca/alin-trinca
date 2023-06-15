@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="220"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/freelancerwebdesign/">
@@ -32,6 +32,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alin-trinca&theme=react&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alin-trinca&hide_border&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alin-trinca&&hide_border=true&layout=donut&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
