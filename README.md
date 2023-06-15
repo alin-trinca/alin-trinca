@@ -15,13 +15,33 @@
   hello world
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
-<p>I'm Alin, frontend developer based in Bucharest, Romania <img src="https://cdn-icons-png.flaticon.com/512/197/197587.png" width="13"/></p>
+<p>I'm Alin, Frontend Developer based in Bucharest, Romania <img src="https://cdn-icons-png.flaticon.com/512/197/197587.png" width="13"/></p>
 
 - :seedling: &nbsp;I cherish ideas and turning them into reality :heart_eyes:
 - :computer: &nbsp;I'm flexible, committed, audacious, perfectionist, brilliant, and yes, extremely modest :exploding_head:
 - :man_technologist: &nbsp;Joking aside, I think I have something new to learn every single day :sunglasses:
 - &nbsp;:iphone: &nbsp;&nbsp;Fun fact: I don't own an iPhone and never will :rofl:
 - :rocket: &nbsp;I’m currently working on something cool :wink:
+
+```yaml
+current_job: Frontend Developer
+education:
+  [
+    "Self-Taught Developer and Designer",
+  ]
+
+fields_of_interests:
+  [
+    "UI/UX",
+    "Web Development",
+    "Machine Learning",
+    "Game Development",
+  ]
+  
+currently_learning: ["Node.js, Express, MongoDB & More"]
+2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Gaming", "Cinema"]
+```
 
 ---
 
@@ -43,5 +63,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alin-trinca&theme=react&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alin-trinca&&hide_border=true&layout=donut&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/alin-trinca/alin-trinca/blob/output/github-contribution-grid-snake.svg)
 
 
