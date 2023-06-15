@@ -17,11 +17,11 @@
 </h1>
 <p>I'm Alin, Frontend Developer based in Bucharest, Romania <img src="https://cdn-icons-png.flaticon.com/512/197/197587.png" width="13"/></p>
 
-- :seedling: &nbsp;I cherish ideas and turning them into reality :heart_eyes:
-- :computer: &nbsp;I'm flexible, committed, audacious, perfectionist, brilliant, and yes, extremely modest :exploding_head:
-- :man_technologist: &nbsp;Joking aside, I think I have something new to learn every single day :sunglasses:
-- &nbsp;:iphone: &nbsp;&nbsp;Fun fact: I don't own an iPhone and never will :rofl:
-- :rocket: &nbsp;I’m currently working on something cool :wink:
+<p>:seedling: &nbsp;I cherish ideas and turning them into reality :heart_eyes: </p>
+<p>:computer: &nbsp;I'm flexible, committed, audacious, perfectionist, brilliant, and yes, extremely modest :exploding_head: </p>
+<p>:man_technologist: &nbsp;Joking aside, I think I have something new to learn every single day :sunglasses: </p>
+<p>&nbsp;:iphone: &nbsp;&nbsp;Fun fact: I don't own an iPhone and never will :rofl: </p>
+<p>:rocket: &nbsp;I’m currently working on something cool :wink: </p>
 
 ```yaml
 current_job: Frontend Developer
