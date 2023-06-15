@@ -15,6 +15,13 @@
   hello world
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
+<p>I'm Alin, frontend developer based in Bucharest, Romania <img src="https://cdn-icons-png.flaticon.com/512/197/197587.png" width="13"/></p>
+
+- :seedling: &nbsp;I cherish ideas and turning them into reality :heart_eyes:
+- :computer: &nbsp;I'm flexible, committed, audacious, perfectionist, brilliant, and yes, extremely modest :exploding_head:
+- :man_technologist: &nbsp;Joking aside, I think I have something new to learn every single day :sunglasses:
+- &nbsp;:iphone: &nbsp;&nbsp;Fun fact: I don't own an iPhone and never will :rofl:
+- :rocket: &nbsp;I’m currently working on something cool :wink:
 
 ---
 
