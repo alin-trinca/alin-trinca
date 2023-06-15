@@ -64,6 +64,6 @@ hobbies: ["Gaming", "Cinema"]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alin-trinca&&hide_border=true&layout=donut&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/alin-trinca/alin-trinca/blob/output/github-contribution-grid-snake.svg)
+
 
 
