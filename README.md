@@ -17,17 +17,14 @@
 </h1>
 <p>I'm Alin, Frontend Developer based in Bucharest, Romania <img src="https://cdn-icons-png.flaticon.com/512/197/197587.png" width="13"/></p>
 
-<p>:seedling: &nbsp;I cherish ideas and turning them into reality :heart_eyes: </p>
-<p>:computer: &nbsp;I'm flexible, committed, audacious, perfectionist, brilliant, and yes, extremely modest :exploding_head: </p>
-<p>:man_technologist: &nbsp;Joking aside, I think I have something new to learn every single day :sunglasses: </p>
-<p>&nbsp;:iphone: &nbsp;&nbsp;Fun fact: I don't own an iPhone and never will :rofl: </p>
-<p>:rocket: &nbsp;I’m currently working on something cool :wink: </p>
-
 ```yaml
 current_job: Frontend Developer
-education:
+about_me:
   [
-    "Self-Taught Developer and Designer",
+    "I cherish ideas and turning them into reality 😍",
+    "I'm flexible, committed, audacious, perfectionist, brilliant, and yes, extremely modest 😅",
+    "Joking aside, I think I have something new to learn every single day 🤓",
+    "I’m currently working on something cool 😉",
   ]
 
 fields_of_interests:
@@ -40,12 +37,12 @@ fields_of_interests:
   
 currently_learning: ["Node.js, Express, MongoDB & More"]
 2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema"]
+hobbies: ["Music", "Photography", "Gaming", "Cinema"]
 ```
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+<h2> Languages and Tools <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> </h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
