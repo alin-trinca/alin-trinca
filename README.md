@@ -36,7 +36,7 @@ fields_of_interests:
   ]
   
 currently_learning: ["Node.js, Express, MongoDB & More"]
-2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+2023 Goals: ["Create 20+ Projects and learn at least 2 new Technologies."]
 hobbies: ["Music", "Sports", "Photography", "Gaming", "Cinema"]
 ```
 
