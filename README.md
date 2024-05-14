@@ -36,7 +36,7 @@ fields_of_interests:
   ]
   
 currently_learning: ["Node.js, Express, MongoDB & More"]
-2023 Goals: ["Learn new Technologies."]
+2024 Goals: ["Learn new Technologies."]
 hobbies: ["Running", "Reading", "Gaming"]
 ```
 
